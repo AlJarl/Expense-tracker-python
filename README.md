@@ -19,7 +19,7 @@ View Expenses: View the list of recorded expenses.
 Calculate Total: Calculate the total expenses.
 Quit: Exit the application.
 Contributing
-
+ 
 
 Contributions are welcome!
 
