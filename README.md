@@ -1,4 +1,4 @@
-#Python Expense tracker
+Python Expense tracker
 
 Manage your personal finances with this simple command-line Expense Tracker in Python.
 
